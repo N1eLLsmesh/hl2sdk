@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright Â© 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Server side view model object
 //
@@ -13,5 +13,8 @@
 #endif
 
 #include "baseviewmodel_shared.h"
+class baseviewmodel_shared : public CBaseViewModel
+{
 
+};
 #endif // BASEVIEWMODEL_H
