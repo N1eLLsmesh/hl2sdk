@@ -6,7 +6,7 @@
 //
 //=============================================================================//
 
- #include "BaseAnimating.h"
+ #include "baseanimating.h"
 
 #ifndef BASE_ANIMATING_OVERLAY_H
 #define BASE_ANIMATING_OVERLAY_H
