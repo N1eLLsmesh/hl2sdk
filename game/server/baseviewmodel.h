@@ -13,8 +13,4 @@
 #endif
 
 #include "baseviewmodel_shared.h"
-class baseviewmodel_shared : public CBaseViewModel
-{
-
-};
 #endif // BASEVIEWMODEL_H
